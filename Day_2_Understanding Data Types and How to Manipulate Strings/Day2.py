@@ -35,4 +35,12 @@ weeks = left * 52
 months = left * 12
 print(f"You have {days} days, {weeks} weeks or {months} months to live")
 
-
+# DAY2 PROJECT: TIP CALCULATOR AT A RESTAURANT
+print("Welcome to tip calculator\n")
+total_bill = input("What is the total bill:\n")
+percentage_tip = input("What percentage of the bill would you like to give as tip:\n ")
+people_to_split = input("How many people to share bill and tip:\n")
+bill_plus_tip = float(total_bill) + (float(total_bill) * float(percentage_tip)) / 100
+payment_per_person = float(bill_plus_tip) / int(people_to_split)
+payment = round(float(payment_per_person), 2)
+print("Each person pays " + str(payment))
