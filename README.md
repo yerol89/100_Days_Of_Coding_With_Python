@@ -1,4 +1,11 @@
 # 100_Days_Of_Coding_With_Python
+
+Hello Everyone,
+I started a new journey with Data Science and as all you know PYTHON is a must for this branch. So I decided to refresh my Python skills from beginner to advanced with this famous tutorial "100_Days_Of_Coding_With_Python". 
+In this repository, I try to explain each and every day in a detailed way on the comment lines. 
+Also I added a table of contents to make it easier for you to find  topics you are looking for in this Python tutorial.
+Hope someone could benefit from this repository...
+
 ## Table Of Contents
 
 + Day1(Beginner)
